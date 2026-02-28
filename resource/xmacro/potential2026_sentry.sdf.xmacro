@@ -16,7 +16,7 @@
     <!-- gimbal_pitch 相对于 gimbal_yaw 的高度差 -->
     <xmacro_define_value name="gimbal_pitch_height" value="0.355" />
 
-    <!--pb2025_sentry_robot model-->
+    <!--potential2026_sentry model-->
     <model name="potential2026_sentry">
 
         <pose>0 0 0.15 0 0 0</pose>
