@@ -10,9 +10,9 @@
     <xmacro_define_value name="global_initial_color" value="none" />
     <xmacro_define_value name="global_armor_sticker_type" value="num3" />
     <!-- 底盘距离水平地面的高度 -->
-    <xmacro_define_value name="chassis_height" value="0.077" />
+    <xmacro_define_value name="chassis_height" value="0.018" />
     <!-- gimbal_yaw 相对于底盘的 z 轴安装偏移 -->
-    <xmacro_define_value name="gimbal_yaw_height" value="0.026" />
+    <xmacro_define_value name="gimbal_yaw_height" value="0.00" />
     <!-- gimbal_pitch 相对于 gimbal_yaw 的高度差 -->
     <xmacro_define_value name="gimbal_pitch_height" value="0.355" />
 
